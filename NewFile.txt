@@ -1,2 +1,4 @@
 Second file. Committed to master.
 I've changed this file.
+I've changed this a second time.
+

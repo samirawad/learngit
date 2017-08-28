@@ -1,1 +1,2 @@
 The quick brown fox jumped over the lazy dogs.
+Even though the branch contained a file restored from an earlier point.  For some reason the branch compare didn't pick it up.
